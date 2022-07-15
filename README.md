@@ -1,5 +1,6 @@
 # tindog
 Web page created to improve my web development and insert in my personal portfolio.
+Create at course of Angela Yu at Udemy Web Dev.
 
 ## Imagem
 
